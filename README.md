@@ -14,9 +14,9 @@ This repository contains the image pipelining algorithm designed for Plant MD. T
 
 1. Place input images in the designated input folder (e.g., `input/`).
 2. Run the main script:
-  
+  ```bash
       python main.py
-  
+  ```
 3. Output will be generated in the specified output directory (e.g., `output/`).
 
 ## Contributing
